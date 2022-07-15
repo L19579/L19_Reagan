@@ -1,0 +1,13 @@
+#  0 - swap/pool
+#  1 - swap/pool authority
+#  2 - user signer 
+#  3 - source account user
+#  4 - source account swap  
+#  5 - destination account swap 
+#  6 - destination account user
+#  7 - pool mint
+#  8 - feel account
+#  9 - token program id
+# 10 - Optional: host fee account
+
+# Removed data. Read the chain and use above as reference.

@@ -1,0 +1,4 @@
+user_config_path = "**INSERT_DIRECT_PATH/L19_Reagan/data/user_config.toml"
+token_swap_config_path = "**INSERT_DIRECT_PATH/L19_Reagan/data/token_swap_config.toml"
+orca_token_swap_config_path = "**INSERT_DIRECT_PATH/L19_Reagan/data/orca_token_swap_config.toml"
+orca_token_swap_v2_config_path = "**INSERT_DIRECT_PATH/L19_Reagan/data/orca_token_swap_v2_config.toml"

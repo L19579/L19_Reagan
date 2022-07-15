@@ -1,0 +1,10 @@
+signer_key = "" # Signer pubkey
+signer_keypair_path = "**INSERT_DIRECT_PATH"
+
+#[[token_accounts]] # Deprecated, program pulls all token accounts associated with signer.
+#name = ""          #             See lib/gen_routes_2() to control settlement accounts.
+#key = ""
+
+#[[token_accounts]]
+#name = "" 
+#key = ""
